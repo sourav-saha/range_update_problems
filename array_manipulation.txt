@@ -33,8 +33,8 @@ Returns
 int - the maximum value in the resultant array
 Input Format
 
-The first line contains two space-separated integers  and , the size of the array and the number of operations.
-Each of the next  lines contains three space-separated integers ,  and , the left index, right index and summand.
+The first line contains two space-separated integers n and m, the size of the array and the number of operations.
+Each of the next m lines contains three space-separated integers a, b and k, the left index, right index and summand.
 
 Constraints
 
